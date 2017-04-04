@@ -1,2 +1,2 @@
 # Final-Project-SEST-704
-this shit sucks
+quite possibly the least user-friendly interface imaginable
