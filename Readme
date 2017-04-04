@@ -1,0 +1,5 @@
+These are the data sets for my final project. 
+Both start in the year 1980 and report the annual totals up through 2000 (for a total of 21 years of data).
+Years are not listed because I didn't want MATLAB to think of them as variables (to be discussed)
+FMS = Annual FMS to the countries (JPN = Japan, KSA = Kingdom of Saudi Arabia) from the U.S.
+Incidents = GDLET's measure of "Code 19" Security Incidents for those countries in those years.
